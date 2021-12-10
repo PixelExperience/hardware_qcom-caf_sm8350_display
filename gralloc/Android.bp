@@ -51,7 +51,6 @@ cc_library_shared {
         "libdl",
         "libgrallocutils",
         "libgralloctypes",
-        "libgralloc.qti",
         "libhidlbase",
         "libion",
         "android.hardware.graphics.mapper@2.1",
